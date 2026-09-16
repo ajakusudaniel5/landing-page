@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.one {
+    display: flex;
+    justify-content: space-around
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.layout1 {
+    background-color:rgb(48, 46, 46);
+}
+
+li {
+    color: white;
+    margin-right: 12px;
+}
+
+#headlogo {
+    color: white;
+    margin: 10px;
+    font-size: 25px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.subone {
+    display: flex;
+    justify-content: space-around;
+}
