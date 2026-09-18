@@ -207,6 +207,8 @@ h2 {
     display: flex;
     justify-content: center;
     gap: 10px;
+    background-color:rgb(31, 29, 29);
+    padding: 20px;
 }
 
 #cid {
