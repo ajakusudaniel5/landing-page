@@ -213,8 +213,12 @@ h2 {
 
 #cid {
     border-radius: 50px;
-    border: 2px solid black;
+    border: 2px solid white;
     padding-left: 3px;
     padding-right: 3px;
     
+}
+
+.layout5 p {
+    color: white;
 }
