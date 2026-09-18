@@ -115,6 +115,7 @@ h2 {
 .layout3 {
     background-color: lightslategray;
     margin-top: 100px;
+    
 }
 
 .layout3 p {
@@ -148,4 +149,26 @@ h2 {
 .item2 div {
     font-weight: bold;
     font-size: 20px;
+    margin-bottom: 100px;
+}
+
+.layout4 {
+    display: flex;
+    padding: 100px;
+    justify-content: center;
+
+
+}
+
+.fourcontainer {
+    display: flex;
+    background-color: rgb(55, 129, 226);
+    padding: 20px;
+    
+}
+
+.para {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1px;
 }
