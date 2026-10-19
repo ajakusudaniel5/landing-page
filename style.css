@@ -12,6 +12,7 @@ body {
 ul {
     display: flex;
     list-style-type: none;
+
 }
 
 .layout1 {
@@ -22,7 +23,7 @@ ul {
 
 li {
     color: white;
-    margin-right: 12px;
+    margin-right: 30px;
 }
 
 #headlogo {
